@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the names of the new Lords created by the King, since the Great Seal was carried away from the Parliament by the Lord Littleton Together with Major Generall Poyntz his summons to Shelford house, with the governours answer. Also, a true relation of the Kings escape in the night from Newark, with a party of three hundred horse. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78331</idno>
+            <idno type="STC">Wing C1400</idno>
+            <idno type="STC">Thomason E308_30</idno>
+            <idno type="STC">ESTC R200394</idno>
+            <idno type="EEBO-CITATION">99899974</idno>
+            <idno type="PROQUEST">99899974</idno>
+            <idno type="VID">135315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135315)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2492:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the names of the new Lords created by the King, since the Great Seal was carried away from the Parliament by the Lord Littleton Together with Major Generall Poyntz his summons to Shelford house, with the governours answer. Also, a true relation of the Kings escape in the night from Newark, with a party of three hundred horse. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Nov. 10. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135315:1" rendition="simple:additions"/>
+            <p>A CATALOGVE OF THE NAMES OF The new Lords created by the King, ſince the Great Seal was carried away from the PARLIAMENT by the Lord <hi>Littleton.</hi>
+            </p>
+            <p>Together with Major Generall <hi>Poyntz</hi> his Summons to <hi>Shel<g ref="char:EOLhyphen"/>ford</hi> houſe, with the Governours Anſwer.</p>
+            <p>ALSO, A true RELATION of the Kings eſcape in the night from <hi>Newark,</hi> with a party of Three hundred Horſe.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>London, Printed by <hi>John Field,</hi> Nov. 10. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_lords">
+            <pb facs="tcp:135315:2"/>
+            <pb n="3" facs="tcp:135315:2"/>
+            <head>The Names of ſuch <hi>Honours</hi> and <hi>Dig<g ref="char:EOLhyphen"/>nities</hi> as have been granted ſince the great Seal was carried from hence.</head>
+            <list>
+               <item>
+                  <hi>IAmes</hi> ſecond Son to King <hi>Charles,</hi> created Duke of <hi>York.</hi>
+               </item>
+               <item>Prince <hi>Rupert</hi> created Duke of Cumberland and Earl of Holder<g ref="char:EOLhyphen"/>neſſe.</item>
+               <item>The Earl of <hi>Worceſter,</hi> created Marques of Worceſter.</item>
+               <item>The Earl of <hi>Newcastle</hi> created Marques of Newcaſtle.</item>
+               <item>The Earl of <hi>Kingſton</hi> created Marques of <hi>Dorcheſter.</hi>
+               </item>
+               <item>The Lord <hi>Spencer</hi> crea<g ref="char:EOLhyphen"/>ted Earl of Sunder<g ref="char:EOLhyphen"/>land.</item>
+               <item>The Lord <hi>Dunſmore</hi> cre<g ref="char:EOLhyphen"/>ated Earl of <hi>Chicheſter.</hi>
+               </item>
+               <item>The Lord of <hi>Forth</hi> crea<g ref="char:EOLhyphen"/>ted Earl of <hi>Branford.</hi>
+               </item>
+               <item>The Lord <hi>Savill</hi> created Earl of <hi>Suſſex.</hi>
+               </item>
+               <item>The Earl of <hi>Arundell</hi> created Earl of <hi>Norfolk.</hi>
+               </item>
+               <item>The Lord <hi>Goring</hi> created
+<pb n="4" facs="tcp:135315:3"/>Earl of <hi>Norwich.</hi>
+               </item>
+               <item>The Lord <hi>Herbert</hi> Son to the Marques of <hi>Worcester,</hi> created Earl of <hi>Glamorgan</hi> by Bill Signed.</item>
+               <item>The Lord <hi>Barnard Ste<g ref="char:EOLhyphen"/>wart,</hi> the Duke of <hi>Rich<g ref="char:EOLhyphen"/>monds</hi> Brother, made Earl of <hi>Lichfield</hi> by Bill Signed.</item>
+               <item>The Lord <hi>Faulconbridge</hi> created Viſcount <hi>Faul<g ref="char:EOLhyphen"/>conbridge.</hi>
+               </item>
+               <item>Sir <hi>Rich. Newport</hi> Lord <hi>Newport.</hi>
+               </item>
+               <item>
+                  <hi>Io: Craven,</hi> Brother to <hi>William</hi> Lord <hi>Craven,</hi> created Lord <hi>Craven</hi> of <hi>Ryton.</hi>
+               </item>
+               <item>
+                  <hi>Henry Percy</hi> Lord <hi>Percy.</hi>
+               </item>
+               <item>
+                  <hi>Henry Wilmot</hi> Lord <hi>Wil<g ref="char:EOLhyphen"/>mot</hi> of <hi>Alderbury.</hi>
+               </item>
+               <item>Sir <hi>Thomas Leigh</hi> Lord <hi>Leigh</hi> of <hi>Stonely.</hi>
+               </item>
+               <item>Sir <hi>Chriſtopher Hatton</hi> Lord <hi>Hatton</hi> of <hi>Kirlby.</hi>
+               </item>
+               <item>Sir <hi>Ralph Hopton</hi> Lord <hi>Hopton</hi> of <hi>Witham.</hi>
+               </item>
+               <item>
+                  <hi>Henry Iermyn</hi> Lord <hi>Ier<g ref="char:EOLhyphen"/>myn.</hi>
+               </item>
+               <item>
+                  <hi>Henry Haſtings</hi> Lord Loughbrough.</item>
+               <item>Sir <hi>Io: Byron</hi> Lord <hi>Byron.</hi>
+               </item>
+               <item>Sir <hi>Rich. Vaughan</hi> Earl of Carbery in <hi>Ireland,</hi> created Lord <hi>Vaughan</hi> in <hi>England.</hi>
+               </item>
+               <item>Sir <hi>Charles Smith</hi> Lord Carrington of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and Viſcount Carrington of <hi>Ireland.</hi>
+               </item>
+               <item>Sir <hi>William Witherington</hi> Lord <hi>Witherington.</hi>
+               </item>
+               <item>Sir <hi>Humble Ward</hi> Lord <hi>Ward,</hi> Married the Lord <hi>Dudleys</hi> Heir.</item>
+               <item>Sir <hi>Io: Culpeper</hi> Lord <hi>Culpeper.</hi>
+               </item>
+               <item>Sir <hi>Iacob Aſhly</hi> Lord
+<pb n="5" facs="tcp:135315:3"/>
+                  <hi>Aſhly.</hi>
+               </item>
+               <item>
+                  <hi>Richard Boyle</hi> Earl of Cork, created Lord Clifford.</item>
+               <item>Sir <hi>Iohn Brooke</hi> Lord Cobham, reſtored in<g ref="char:EOLhyphen"/>to his Anceſters place, and a creation with<g ref="char:EOLhyphen"/>all.</item>
+               <item>Sir <hi>Iohn Lucas</hi> Lord <hi>Lu<g ref="char:EOLhyphen"/>cas.</hi>
+               </item>
+               <item>Colonell <hi>Bellafis</hi> ſe<g ref="char:EOLhyphen"/>cond ſon to Viſcount <hi>Faulconbridge,</hi> created Baron <hi>Bellaſis.</hi>
+               </item>
+               <item>Sir <hi>Lewis VVatſon</hi> Kt. and Baronet, created Baron of Rocking<g ref="char:EOLhyphen"/>ham Caſtle in the county of <hi>Northamp<g ref="char:EOLhyphen"/>ton.</hi>
+               </item>
+               <item>
+                  <hi>Reede</hi> one of the late Ambaſſa<g ref="char:EOLhyphen"/>dors of the States, cre<g ref="char:EOLhyphen"/>ated a Titular Baron of England.</item>
+               <item>Sir <hi>Charles Gerrard</hi> Lord <hi>Gerrard.</hi>
+               </item>
+               <item>Sir <hi>Francis Hawley</hi> Lord <hi>Hawley.</hi>
+               </item>
+               <item>Sir <hi>VVilliam Ogle</hi> a Viſ<g ref="char:EOLhyphen"/>count of <hi>Ireland.</hi>
+               </item>
+               <item>Sir <hi>Henry Beard</hi> a Viſ<g ref="char:EOLhyphen"/>count of <hi>Ireland.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="summons">
+            <pb n="6" facs="tcp:135315:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu may perceive I am not onely cleare Maſter of the Field, but you are alſo without any expectation of Reliefe; I doe therefore require the delivery up of the Houſe and Garriſon of <hi>Shelford</hi> under your com<g ref="char:EOLhyphen"/>mand, for the uſe of the King and Parliament; which if you ſhall refuſe to doe, you muſt expect the ſtricteſt ri<g ref="char:EOLhyphen"/>gour of a reſolved Enemy, for though it fall out to be with ſome loſſe, my number is ſo conſiderable, that I ſhall not leave the place till (by Gods aſſiſtance) I ſhall compell you thereunto, you have halfe an houres time to return Anſwer to</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant</hi> Sidenham Poynts.</signed>
+               <date>3. <hi>Novemb.</hi> 1645.</date>
+            </closer>
+         </div>
+         <div type="answer">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Keepe this Garriſon for the King, and in defence of it I will live and dye, and your number is not ſo great, nor you ſo much Maſter of the Field, but that I am confident ſoone to leſſen your Number, and ſee you abroad; and for Relief, we need none: Therefore deſire you to be ſatisfied with this Anſwer from</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant</hi> Phil. Stanhope.</signed>
+               <date>
+                  <hi>Novemb.</hi> 3. 1645.</date>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="7" facs="tcp:135315:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt, God was pleaſed to deliver the Garri<g ref="char:EOLhyphen"/>ſon of <hi>Shelford</hi> into our hands; Being advanced from <hi>Southwell</hi> towards <hi>Nottingham,</hi> Col. <hi>Roſſiter</hi> joyned with us, whereupon my Generall clapt downe before that Houſe, and took divers Priſoners in <hi>Shelford</hi> Church, and among them a woman-corporall: This day being prepa<g ref="char:EOLhyphen"/>red for a ſtorme, my Generall ſent in Summons, where he received a peremptory Anſwer, both which you ſhall finde incloſed: Whereupon, we ſtormed their works on all ſides with much reſolution, and were gallantly enter<g ref="char:EOLhyphen"/>tained by the Enemy; but within halfe an houre we beat them out of their works, and the Sword ſoone gave them their reward, for of two hundred, there is not above for<g ref="char:EOLhyphen"/>ty got quarter: The young Governour, Son to the Lord <hi>Stanhape,</hi> was ſtript for dead, but ſome pittifull Officer perceiving life in him, got him away, and it may happily be a means to recover body and ſoul, for what he utters is full of repentance: Moſt of them were the Queens Regi<g ref="char:EOLhyphen"/>ment. We took three Horſe colours, one Dragoon colours, and two Foot Colours. To morrow we do intend againſt <hi>Werton</hi> Houſe, a mile from this place, whereof the Gen. hopes to give a good Accompt; he wants but more foot to viſit <hi>Newark:</hi> The forces generally behaved them<g ref="char:EOLhyphen"/>ſelves gallantly, the <hi>London</hi> Brigade and the <hi>Nottingham</hi>
+               <pb n="8" facs="tcp:135315:5"/>Foot, performed their duty with much valour: The King is ſtill at <hi>Newark,</hi> the Gen. left a very ſtrong party of Horſe and Dragoones to attend His Motion. This is all for Newes, The reſt aſſures you that I am,</p>
+            <closer>
+               <signed>Your affectionate Brother to ſerve you, <hi>Iohn Hughes.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Bingham</hi> 
+                  <date>3. <hi>of</hi> Novemb. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce the taking of <hi>Shelford</hi> Garriſon, Newes came that the King on <hi>Munday</hi> in the Evening got away with three hundred Horſe, twixt <hi>Belvoyre</hi> Caſtle and Colonel <hi>Roſſiters</hi> Guards, which way is not certainly knowne. But to prevent reliefe to the Enemy at <hi>Cheſter,</hi> the Generall preſently ordered Col. <hi>Maynwaring</hi> with the <hi>London</hi> Bri<g ref="char:EOLhyphen"/>gade, and foure Regiments more of Horſe and Dragoons under his Command, forthwith to march to Sir <hi>William Brereton</hi> for to aſſiſt the leaguer there: He is now draw<g ref="char:EOLhyphen"/>ing againſt <hi>Werton</hi> Houſe, which in few dayes he hopes to reduce; He hath Orders, and foure thouſand five hun<g ref="char:EOLhyphen"/>dred Foot Ordered to him for the ſiege of <hi>Nevvark,</hi> they are to have their Rendezvouz at <hi>Grantham</hi> and <hi>Southvvell</hi> on <hi>Friday</hi> next, and then the buſineſſe will not be long deferred. I am Sir,</p>
+            <closer>
+               <signed>Your highly engaged Friend to ſerve you <hi>Iohn Hughes.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Bingham</hi> 
+                  <date>5. <hi>of</hi> Novemb. 1645.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
